@@ -1,0 +1,60 @@
+
+/* App.css */
+.App {
+  text-align: center;
+  background-color: #0d0221;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #00f2ff;
+  overflow: hidden;
+}
+
+.game-container {
+  position: relative;
+  box-shadow: 0 0 30px rgba(0, 242, 255, 0.4);
+  border: 4px solid #00f2ff;
+  border-radius: 12px;
+  background: black;
+}
+
+h1 {
+  text-shadow: 0 0 10px #00f2ff, 0 0 20px #00f2ff;
+  margin-bottom: 1rem;
+}
+
+.score {
+  font-size: 2rem;
+  font-weight: bold;
+  text-shadow: 0 0 5px #00f2ff;
+  margin-top: 1rem;
+}
+
+.instructions {
+  margin-top: 1rem;
+  color: #ff00c8;
+  text-shadow: 0 0 5px #ff00c8;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  background: transparent;
+  color: #00f2ff;
+  border: 2px solid #00f2ff;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+button:hover {
+  background: #00f2ff;
+  color: black;
+  box-shadow: 0 0 20px #00f2ff;
+}
