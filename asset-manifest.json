@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/neon-city-run/static/css/main.68602409.css",
-    "main.js": "/neon-city-run/static/js/main.bf7dfc11.js",
+    "main.js": "/neon-city-run/static/js/main.5a001a1d.js",
     "static/js/453.24275276.chunk.js": "/neon-city-run/static/js/453.24275276.chunk.js",
     "index.html": "/neon-city-run/index.html",
     "main.68602409.css.map": "/neon-city-run/static/css/main.68602409.css.map",
-    "main.bf7dfc11.js.map": "/neon-city-run/static/js/main.bf7dfc11.js.map",
+    "main.5a001a1d.js.map": "/neon-city-run/static/js/main.5a001a1d.js.map",
     "453.24275276.chunk.js.map": "/neon-city-run/static/js/453.24275276.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68602409.css",
-    "static/js/main.bf7dfc11.js"
+    "static/js/main.5a001a1d.js"
   ]
 }
